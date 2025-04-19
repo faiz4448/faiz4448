@@ -2,7 +2,7 @@
 <h3 align="center">Pelajar SMAN 22 Gowa | 16 Tahun | Web Developer Muda</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Web+Dev+in+Progress...;Lagi+ngoding+pakai+kopi+%26+semangat!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Web+Dev+in+Progress...;Lagi+ngoding+pakai+teh+%26+semangat!" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,6 +36,4 @@ Saya Faiz, pelajar dari SMAN 22 Gowa yang suka eksplorasi dunia teknologi dan de
 ---
 
 ### 📬 Kontak
-- **Email**: faizazeek@example.com
-
-Ini saya taro di readme oke gak min? 
+- **Email**: faizazeek@Gmail.com
