@@ -27,3 +27,5 @@ Saya Faiz, pelajar dari SMAN 22 Gowa seorang amateur di github. Suka belajar HTM
 
 ### 📬 Kontak
 - **Email**: faizazekk@Gmail.com
+- 
+<img src="https://github.com/faiz4448/faiz4448/blob/main/1bc148608b813650892db2d9cd32b24a.jpg?raw=true" alt="Banner" style="width:100%;"/>
