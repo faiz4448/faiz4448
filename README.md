@@ -5,10 +5,10 @@
 ---
 
 <h1 align="center">Halo, saya Faiz!</h1>
-<h3 align="center">Pelajar SMAN 22 Gowa | 16 Tahun | Web Developer pemula</h3>
+<h3 align="center">Pelajar SMAN 22 Gowa| Web Developer pemula</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Web+Dev+Gallery+in+Progress...;Lagi+ngoding+pakai+teh+%26+semangat!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;something+cooking+in+here...;Terimakasih+udah+mampir" alt="Typing SVG" />
 </p>
 
 ---
