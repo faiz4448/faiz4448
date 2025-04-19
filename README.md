@@ -1,4 +1,8 @@
-<img src="https://github.com/faiz4448/faiz4448/blob/main/1bc148608b813650892db2d9cd32b24a.jpg?raw=true" alt="Banner" style="width:100%;"/>
+<p align="center">
+  <img src="./dc053b0045d3c0fafe74352b46b9fbbe.gif" alt="GIF Faiz" width="400"/>
+</p>
+
+---
 
 <h1 align="center">Halo, saya Faiz!</h1>
 <h3 align="center">Pelajar SMAN 22 Gowa | 16 Tahun | Web Developer pemula</h3>
