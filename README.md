@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Halo, saya Faiz!</h1>
-<h3 align="center">Pelajar SMAN 22 Gowa| Web Developer pemula</h3>
+<h3 align="center">Pelajar SMAN 22 Gowa | Web Developer pemula</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;something+cooking+in+here...;Terimakasih+udah+mampir" alt="Typing SVG" />
@@ -23,13 +23,9 @@ Saya Faiz, pelajar dari SMAN 22 Gowa seorang amateur di github. Suka belajar HTM
 - **Tools**: Git & GitHub, VS 
 - **Style**: UI Clean
 
----
-
 ### 🌟 Proyek Unggulan
-- [**Quote Generator**](https://github.com/faiz448/quote-generator)  
+- [**Quote Generator**](https://github.com/faiz4448/quote-heroes.git) 
   *Kumpulan kutipan pahlawan Yunani + terjemahan, desain elegan!*
-
----
 
 ### 📬 Kontak
 - **Email**: faizazekk@Gmail.com
